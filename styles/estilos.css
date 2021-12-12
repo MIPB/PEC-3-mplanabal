@@ -244,11 +244,7 @@ main img {
   margin-bottom: 15px;
 }
 
-#image1,
-#image2,
-#image3,
-#image4,
-#image5 {
+.sintoma figure {
   margin-inline-end: 0;
   margin-inline-start: 0;
   margin-block-start: 0;
@@ -286,6 +282,7 @@ main img {
 .video iframe {
   width: 100%;
   height: 56.25vw;
+  border-width: 0;
 }
 
 .video figcaption {
@@ -427,11 +424,7 @@ blockquote {
     max-width: 80%;
   }
 
-  #image1,
-  #image2,
-  #image3,
-  #image4,
-  #image5 {
+  .sintoma figure {
     margin-inline-end: 10px;
     height: 100%;
   }
