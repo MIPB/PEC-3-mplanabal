@@ -423,7 +423,7 @@ blockquote {
     max-width: 80%;
   }
 
-  .sintoma #image {
+  .sintoma .image {
     margin-inline-end: 10px;
     height: 100%;
   }
